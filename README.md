@@ -7,4 +7,4 @@ the concept is just syncing notepad as the name suggest we have a database , and
 (watchdog) 
 (networking/transport)
 
-the format is abit weird idfk
+the format is abit weird idfk ¯\_(ツ)_/¯
